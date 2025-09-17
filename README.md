@@ -10,7 +10,7 @@ The goal is to build a landing page using HTML and CSS, applying what I’ve lea
 **Recreate a landing page design based on provided image:**
 
 > Focus is on building the structure and styles, not responsiveness.
-  Practice committing early and often with clear commit messages.
+> Practice committing early and often with clear commit messages.
 
 ![Full design](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png)
 
@@ -24,16 +24,16 @@ The goal is to build a landing page using HTML and CSS, applying what I’ve lea
 
 **What I Learned**
 
-- [ ] How to structure a webpage into sections
-- [ ] Using flexbox for layout and alignment
-- [ ] Importance of starting with content before styling
-- [ ] Committing code in small, meaningful steps
+- [x] How to structure a webpage into sections
+- [x] Using flexbox for layout and alignment
+- [x] Importance of starting with content before styling
+- [x] Committing code in small, meaningful steps
 
 **Getting Started**
 
 - Clone the repository
 - Open index.html in your browser to view the project
 
-==Acknowledgements==
+<u>Acknowledgements</u>
 
 *The Odin Project for providing the guidance and design*
