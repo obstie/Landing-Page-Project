@@ -1,0 +1,152 @@
+/* Basic CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  font-family: Roboto,Arial, sans-serif;
+  line-height: 1.5;
+}
+ul, ol {
+  list-style: none;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+  margin: 0;
+}
+nav img {
+    width: 500px;
+    height: auto;
+}
+nav {
+    background-color: #1f2937;
+    color: white;
+    padding-bottom: 30px;
+}
+.link-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.link-section ul {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.hero-section {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin: 90px 0;
+}
+.hero-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    max-width: 500px;
+    flex: 1 1 auto;
+}
+.hero-image {
+    width: 100%;
+    max-width: 500px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 2px;
+}
+.hero-content p:first-child {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+.hero-content p:nth-of-type(2) {
+    font-size: 18px;
+    color: inherit;
+}
+.hero-content button {
+    all: unset;
+    text-align: center;
+    max-width: 200px;
+    padding: 5px;
+    background-color: #3882f6;
+    border-radius: 3px;
+    
+}
+input, button, textarea, select {
+  font: inherit;
+}
+
+ul, ol {
+  list-style: none;
+}
+#features-heading {
+    text-align: center;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    padding: 30px;
+}
+ .features-list img {
+  width: 200px;
+  border-radius: 5px;
+ }
+ .features-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+ }
+ .feature-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    max-width: 200px;
+    flex: 1 1 auto;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+ }
+.features-section {
+    padding-bottom: 120px;
+}
+.quote_section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-style: italic;
+    height: 500px;
+    background-color:#e5e7eb;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+}
+.author {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 700;
+}
+blockquote {
+    margin:  0 auto;
+    max-width: 80%;
+}
+
+footer button {
+    all: unset;
+    width: 100px;
+    padding: 10px;
+}
+.footer_container {
+    background-color: #3882f6;
+    display: flex;
+    gap: 20%;
+    color: white;
+    padding: 30px;
+    max-width: 80%;
+}
