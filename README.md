@@ -10,8 +10,8 @@ The goal is to build a landing page using HTML and CSS, applying what I’ve lea
 
 **Recreate a landing page design based on provided image:**
 
-> Focus is on building the structure and styles, not responsiveness.
-> Practice committing early and often with clear commit messages.
+><p>Focus is on building the structure and styles, not responsiveness.</p>
+><p>Practice committing early and often with clear commit messages.</p>
 
 ![Full design](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png)
 
