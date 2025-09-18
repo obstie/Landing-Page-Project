@@ -174,3 +174,9 @@ blockquote {
     padding: 8px 14px;
     border-radius: 6px;
 }
+.copyright-section {
+    text-align: center;
+    padding: 30px;
+    background-color: #1f2937;
+    color: white;
+}
