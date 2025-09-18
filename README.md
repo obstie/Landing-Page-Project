@@ -30,10 +30,9 @@ The goal is to build a landing page using HTML and CSS, applying what I’ve lea
 - [x] Importance of starting with content before styling
 - [x] Committing code in small, meaningful steps
 
-**Getting Started**
-
-- Clone the repository
-- Open index.html in your browser to view the project
+**Languages used**
+- HTML
+- CSS
 
 <u>Acknowledgements</u>
 
